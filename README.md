@@ -7,6 +7,8 @@
 
 *Now Playing* is a simple companion application for creating custom Discord rich presence text.
 
+![ScreenShot](screenshot.png)
+
 This is a toy application, so I make no promises about its viability, sustailabilty, compatabaility, longevity, or for 
 that matter any details regarding my sanity. If, after all that, you still want to mess with this, then have a blast 
 and good luck!
